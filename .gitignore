@@ -1,0 +1,53 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+/wp-content/advanced-cache.php
+/wp-content/upgrade/
+/wp-content/uploads/
+/wp-content/backup-db/
+/wp-content/backupbuddy_backups/
+/wp-content/cache/
+wp-config.php
+
+# Ignore WordPress default themes
+/wp-content/themes/twenty*/
+
+# Ignore WordPress default plugins
+/wp-content/plugins/hello.php
+
+# Ignore environment-specific files
+.htaccess
+*.log
+*.sql
+*.sqlite
+
+# Ignore development and build files
+/node_modules/
+/dist/
+/vendor/
+
+# Ignore configuration files that may contain sensitive information
+wp-config.php
+
+# Ignore any files or directories that should not be in version control
+error_log
+*.log
+*.pot
+*.po
+*.mo
+*.scssc
+
+# Ignore Git configuration files
+/.gitattributes
+
+# Ignore IDE or editor specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
