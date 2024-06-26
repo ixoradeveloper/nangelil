@@ -1,0 +1,131 @@
+/* --- Features icon --- */
+#features_icon option::before
+{
+	margin-left: 10px;
+	margin-right: 0;
+}
+/* --- Theme options --- */
+.theme_options .header_left,
+.theme_options .header_right
+{
+	float: right;
+}
+.theme_options .header_right
+{
+	padding: 0 40px 0 0;
+}
+.theme_options .header_right h5,
+.theme_options .header_right .description,
+.theme_options .header_right .description a.description_link
+{
+	float: right;
+}
+.theme_options .header_right .description a.description_link
+{
+	margin-left: 0;
+	margin-right: 15px;
+}
+.theme_options .header_right .logo
+{
+	float: left;
+	margin: 20px 0 20px 20px;
+}
+.theme_options .settings
+{
+	float: left;
+	padding: 20px 40px 20px 20px;
+}
+.theme_options .form_field_list  #import_dummy_version 
+{
+	float: right !important;
+	margin-left: 10px;
+	margin-right: 0 !important;
+}
+.theme_options .settings .color_preview,
+.widget-content .color_preview,
+.metabox-holder .color_preview
+{
+	float: right;
+	margin: 1px 1px 1px 5px;
+}
+.theme_options .menu
+{
+	float: right;
+}
+.theme_options .menu a span
+{
+	margin-left: 3px;
+	margin-right: 0;
+}
+.theme_options .submenu a
+{
+	padding: 12px 37px 12px 10px;
+}
+.theme_options #theme_options_preloader,
+.theme_options #theme_options_tick,
+.theme_options #theme_options_info
+{
+	float: left;
+}
+.theme_options .footer_left
+{
+	float: right;
+}
+.theme_options .footer_right
+{
+	float: left;
+}
+.theme_options input[type='submit']
+{
+    float: left;
+}
+.theme_options ul.social-list
+{
+	margin-left: 0;
+	margin-right: 20px;
+}
+.theme_options ul.social-list li
+{
+	float: right;
+	margin-left: 0;
+	margin-right: 5px;
+}
+.theme_options ul.social-list li:first-child
+{
+	margin-right: 0;
+}
+/* --- Meta box options --- */
+.meta_box_options_left,
+.meta_box_options_right
+{
+	float: right;
+}
+.meta_box_options_right
+{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+/* --- departments hours list --- */
+#department_hours_list .operation_button
+{
+	float: left;
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+/* --- visual composer --- */
+.wpb_mc_carousel .attachment-thumbnails li,
+.wpb_mc_small_slider .attachment-thumbnails li,
+.wpb_photostream .attachment-thumbnails li,
+.wpb_slider .attachment-thumbnails li 
+{
+    margin-left: 3px;
+	margin-right: 0;
+}
+.wpb_mc_carousel .column_edit_trigger,
+.wpb_mc_small_slider .column_edit_trigger,
+.wpb_photostream .column_edit_trigger,
+.wpb_slider .column_edit_trigger
+{
+    float: right;
+}

@@ -1,0 +1,17 @@
+/*
+Theme Name:   MediCenter Child
+Theme URI: https://1.envato.market/medicenter-responsive-medical-wordpress-theme
+Description:  MediCenter Child Theme
+Author: QuanticaLabs
+Author URI: https://1.envato.market/quanticalabs
+Template:     medicenter
+Version:      1.2
+Text Domain:  medicenter
+*/
+.header {
+    padding: 0;
+}
+.header-left a img {
+    width: 100px;
+    height: 100px;
+}
